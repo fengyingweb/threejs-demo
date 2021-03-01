@@ -33,7 +33,7 @@
     "mockjs": "^1.0.1-beta3",
     "moment": "^2.24.0",
     "nprogress": "^0.2.0",
-    "three": "^0.110.0",
+    "three": "^0.125.0",
     "three-orbit-controls": "^82.1.0",
     "vue": "^2.6.6",
     "vue-i18n": "^8.10.0",
